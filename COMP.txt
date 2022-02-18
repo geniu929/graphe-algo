@@ -1,0 +1,12 @@
+---Iacobciuc Eugen---
+
+1- 	Complexité graphe_succ_est_successeur : O(1)
+	Complexité graphe_succ_degre_sortant : O(n)
+	Complexité graphe_succ_degre_entrant : O(m)
+2-	Complexité graphe_succ_est_successeur : O(1)
+	Complexité graphe_succ_degre_sortant : O(n)
+	Complexité graphe_succ_degre_entrant : O(m)
+	graphe_ajouter_arc :O(1)
+	graphe_supprimer_arc :O(n)
+
+
